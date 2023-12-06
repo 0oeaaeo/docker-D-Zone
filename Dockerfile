@@ -32,4 +32,4 @@ COPY root/ /
 # Communicate ports and volumes to be used
 EXPOSE 3000
 
-VOLUME /config
+
